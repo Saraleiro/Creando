@@ -1,0 +1,11 @@
+.cuadrado {
+    width: 1000px; 
+    height: 1000px; 
+    background: #093358;
+}
+
+@media screen and (max-width:480px){
+	.cuadrado {
+		background: chartreuse;
+}
+}
